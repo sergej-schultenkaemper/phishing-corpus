@@ -1,4 +1,4 @@
-# Multimodal Phishing Ccorpus
+# Multimodal Phishing Corpus
 The phishing data has been collected from Reddit and reported by Germany's consumer protection organization (Verbraucherzentrale). The dataset contains 2,353 phishing examples, featuring both German and English content.
 
 
