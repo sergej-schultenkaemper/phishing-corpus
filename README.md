@@ -16,9 +16,10 @@ The phishing data has been collected from Reddit and reported by Germany's consu
 - Images with Redaction: 698 (29.7%)
 - Posts with Attacker Information: 942 (40.0%)
 - Phishing Posts:
-  - Annotated: 1,538 (65.4%)
-  - Based on Images: 1,758 (74.7%)
-  - Based on Images & Comments: 1,971 (83.8%)
+- Human Manual Annotation: 1,538 posts identified as phishing (65.4% of total dataset)
+- Gemini 2.0 Flash Analysis:
+  - Image-Only Analysis: 1,758 posts detected as phishing (74.7%)
+  - Combined Image & Comment Analysis: 1,971 posts detected as phishing (83.8%)
 - Average Word Length: 150.49 characters
 
 ### Content Distribution
