@@ -30,7 +30,6 @@ The phishing data has been collected from Reddit posts and from Germany's consum
 
 ## Data Structure
 
-Each entry contains:
 
 ```json
 {
